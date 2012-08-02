@@ -1,0 +1,7 @@
+#!/usr/bin/python 
+# -*- coding: utf-8 -*-
+
+def func(x):
+    return x * x
+
+print func(7)
